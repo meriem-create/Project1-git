@@ -1,0 +1,15 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 7C32-8CA6
+
+ R‚pertoire de C:\Users\User\Desktop\my project
+
+02/03/2021  17:57    <DIR>          .
+02/03/2021  17:57    <DIR>          ..
+02/03/2021  17:37    <DIR>          .git
+02/03/2021  17:15                49 localisation.txt
+02/03/2021  15:51               390 test1.txt
+02/03/2021  15:53               469 test2.html
+02/03/2021  16:49                33 test3.txt
+02/03/2021  17:57                 0 testt.txt
+               5 fichier(s)              941 octets
+               3 R‚p(s)  591ÿ694ÿ139ÿ392 octets libres

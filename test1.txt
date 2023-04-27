@@ -1,13 +1,17 @@
  Le volume dans le lecteur C n'a pas de nom.
- Le num‚ro de s‚rie du volume est 7C32-8CA6
+ Le numâ€šro de sâ€šrie du volume est 7C32-8CA6
 
- R‚pertoire de C:\Users\User\Desktop\my project
+ Râ€špertoire de C:\Users\User\Desktop\my project
 
 02/03/2021  14:49    <DIR>          .
 02/03/2021  14:49    <DIR>          ..
 02/03/2021  14:49                 0 test1.txt
                1 fichier(s)                0 octets
-               2 R‚p(s)  591ÿ920ÿ107ÿ520 octets libres
+               2 Râ€šp(s)  591Ã¿920Ã¿107Ã¿520 octets libres
 
 
+<<<<<<< HEAD
 Bonjour
+=======
+Bonjour
+>>>>>>> 40f6329a41696e9038fa6db0e8072836218963d1
